@@ -1,4 +1,4 @@
-- 👋 Hello world, I’m Phlotonic ![alt text](http://url/to/img.png) (Adam Dryden)
+- 👋 Hello world, I’m Phlotonic (Adam Dryden)
 - I produce electronic music🎼, I dabble in some code💻, I create things and love nature and space⭐.
 - 👀 I’m interested in learning as much as my brain can handle, then developing software and games.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Git, React & AI
