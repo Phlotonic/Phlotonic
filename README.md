@@ -1,8 +1,9 @@
 - 👋 Hello world, I’m Phlotonic (Adam Dryden)
-- I produce electronic music🎼, I dabble in some code💻, I create things and love nature and space⭐.
-- 👀 I’m interested in learning as much as my brain can handle, then developing software and games.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python, Git, React & AI
-- 💞️ I’m looking to collaborate on any project that allows my creativity and experience to grow in a constructive and sustainable way. 🌎
+- I produce electronic music🎼, I generate code💻, I create many things and I love nature, technology, and space⭐.
+- 👀 I’m interested in learning how to create adaptive software, particularly Personalized Collective Intelligence:
+      https://medium.com/@adamdryden/personalized-collective-intelligence-3da6c4195aeb?sk=bc02703cfc4d52fe3daf9f75aa39267d
+- 🌱 I’m currently learning React & TypeScript
+- 💞️ I’m looking to collaborate!
 - 📫 How to reach me: adryden508@gmail.com
 
 
